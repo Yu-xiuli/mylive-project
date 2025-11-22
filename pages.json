@@ -1,0 +1,75 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/welcome/index"
+		},
+		{
+			"path": "pages/home/index"
+		},
+		{
+			"path": "pages/pets/index"
+		},
+		{
+			"path": "pages/travel/index"
+		},
+		{
+			"path": "pages/userconf/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/detail/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		// "navigationBarTextStyle": "black",
+		// "navigationBarTitleText": "生活不在别处，在此处",
+		// "navigationBarBackgroundColor": "#A686BA",
+		// "enablePullDownRefresh": false,
+		// // "navigationBarHeight": "200",
+		// "backgroundColor": "#A686BA" ,
+		"navigationStyle": "custom"
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#a686ba",
+		"backgroundColor": "#ffffff",
+		"borderStyle":"white",
+		"list": [{
+				"pagePath": "pages/home/index",
+				"iconPath": "/static/主页.png",
+				"selectedIconPath": "/static/主页_active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/pets/index",
+				"iconPath": "/static/宠物.png",
+				"selectedIconPath": "/static/宠物_active.png",
+				"text": "爱宠"
+			},
+			{
+				"pagePath": "pages/travel/index",
+				"iconPath": "/static/旅行.png",
+				"selectedIconPath": "/static/旅行_active.png",
+				"text": "旅行"
+			},
+			{
+				"pagePath": "pages/userconf/index",
+				"iconPath": "/static/我的.png",
+				"selectedIconPath": "/static/我的_active.png",
+				"text": "我的"
+			}
+		]
+	},
+	"uniIdRouter": {},
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+		}
+	}
+}

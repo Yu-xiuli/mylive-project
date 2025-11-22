@@ -1,0 +1,1 @@
+<page-layout wx:if="{{b}}" class="data-v-c85e4709" u-s="{{['d']}}" u-i="c85e4709-0" bind:__l="__l" u-p="{{b}}"><block u-s="{{['d']}}" class="travel-page data-v-c85e4709"><flow-layout wx:if="{{a}}" class="data-v-c85e4709" u-i="c85e4709-1,c85e4709-0" bind:__l="__l" u-p="{{a}}"/><bottom-tip class="data-v-c85e4709" u-i="c85e4709-2,c85e4709-0" bind:__l="__l"/></block></page-layout>

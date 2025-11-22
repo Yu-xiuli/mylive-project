@@ -1,0 +1,1 @@
+<view class="bottom-card data-v-b685b794"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="bottom-item data-v-b685b794" bindtap="{{item.d}}"><image class="bottom-pic data-v-b685b794" src="{{item.a}}" mode="widthFix" lazy-load/><view class="bottom-text data-v-b685b794">{{item.b}}</view></view></view>

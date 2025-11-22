@@ -1,0 +1,1 @@
+<view class="pages-layout data-v-c94b9b2c"><custom-navbar wx:if="{{a}}" class="data-v-c94b9b2c" u-i="c94b9b2c-0" bind:__l="__l" u-p="{{a}}"/><view class="page-wrapper data-v-c94b9b2c" style="{{'padding-top:' + b}}"><slot></slot></view></view>

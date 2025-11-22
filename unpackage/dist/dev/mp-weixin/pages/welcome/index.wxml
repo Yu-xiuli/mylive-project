@@ -1,0 +1,1 @@
+<view class="welcome-page data-v-93d46b61"><view class="box data-v-93d46b61"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="data-v-93d46b61"><text class="text-item data-v-93d46b61">{{item.a}}</text></view></view></view>

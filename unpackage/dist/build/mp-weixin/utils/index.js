@@ -1,0 +1,1 @@
+"use strict";const t=require("../common/vendor.js");exports.getNavigationBarHeight=function(){const e=t.wx$1.getSystemInfoSync(),n=t.wx$1.getMenuButtonBoundingClientRect(),i=e.statusBarHeight;return{statusBarHeight:i,navigationBarHeight:2*(n.top-i)+n.height,menuButtonHeight:n.height}};

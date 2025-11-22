@@ -1,0 +1,27 @@
+
+.bottom-card.data-v-02b7ef6a {
+		column-count: 2;
+		gap: 8px;
+}
+.bottom-item.data-v-02b7ef6a {
+		display: inline-block;
+		width: 100%;
+		margin-bottom: 8px;
+		/* 防止断层 */
+		break-inside: avoid;
+		background: #ffffff;
+		border-radius: 4px;
+}
+.bottom-pic.data-v-02b7ef6a {
+		width: 100%;
+}
+.bottom-text.data-v-02b7ef6a {
+		line-height: 30px;
+		height: 38px;
+		padding: 0 8px 8px;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+		color: #8c8c8c !important;
+		font-size: 16px !important;
+}

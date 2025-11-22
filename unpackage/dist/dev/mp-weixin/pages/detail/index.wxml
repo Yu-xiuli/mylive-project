@@ -1,0 +1,1 @@
+<page-layout wx:if="{{c}}" class="data-v-2fd5b0a7" u-s="{{['d']}}" u-i="2fd5b0a7-0" bind:__l="__l" u-p="{{c}}"><block class="data-v-2fd5b0a7" u-s="{{['d']}}"><view class="detail-pic-box data-v-2fd5b0a7"><image class="detail-pic data-v-2fd5b0a7" src="{{a}}" mode="widthFix"/></view><view class="detail-desc data-v-2fd5b0a7">{{b}}</view></block></page-layout>

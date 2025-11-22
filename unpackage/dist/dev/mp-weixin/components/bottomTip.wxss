@@ -1,0 +1,8 @@
+
+.bottom-tip.data-v-51ee0197 {
+		height: 80rpx;
+		line-height: 80rpx;
+		width: 100%;
+		text-align: center;
+		color: #8c8c8c !important;
+}

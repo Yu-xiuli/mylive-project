@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "page-layout": "../../components/pageLayout/index",
+    "flow-layout": "../../components/flowLayout"
+  }
+}

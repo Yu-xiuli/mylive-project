@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "page-layout": "../../components/pageLayout/index"
+  }
+}

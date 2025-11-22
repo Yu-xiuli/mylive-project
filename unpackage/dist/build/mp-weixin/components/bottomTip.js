@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),t=e.defineComponent({__name:"bottomTip",props:{tips:{default:"到底啦"},customStyle:{default:{}}},setup(t){const{tips:o,customStyle:s}=t;return(t,n)=>({a:e.t(o),b:e.s(s)})}}),o=e._export_sfc(t,[["__scopeId","data-v-e4fe7eca"]]);wx.createComponent(o);

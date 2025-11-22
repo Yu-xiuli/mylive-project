@@ -1,0 +1,7 @@
+
+.travel-page.data-v-c85e4709 {
+		width: 100%;
+		height: calc(100vh - 94px);
+		overflow: hidden auto;
+		padding: 10px;
+}

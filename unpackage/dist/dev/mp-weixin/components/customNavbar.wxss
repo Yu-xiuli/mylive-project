@@ -1,0 +1,24 @@
+
+.custom-navbar.data-v-94978aba {
+		width: 100%;
+		background-color: #A686BA;
+		padding: 0;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10;
+}
+.nav-bar.data-v-94978aba {
+		width: 100%;
+		padding-left: 30rpx;
+		display: flex;
+		align-items: center;
+}
+.navbar-item.data-v-94978aba {
+		flex: 1;
+}
+.nav-title.data-v-94978aba {
+		width: auto;
+		text-align: center;
+		white-space: nowrap;
+}

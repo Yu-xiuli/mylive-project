@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "flow-layout": "../../components/flowLayout",
+    "bottom-tip": "../../components/bottomTip",
+    "page-layout": "../../components/pageLayout/index"
+  }
+}

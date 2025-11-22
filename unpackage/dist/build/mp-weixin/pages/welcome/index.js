@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t={__name:"index",setup(t){const o=["欢","迎"];let n;return e.onMounted((()=>{n=setTimeout((()=>{e.index.switchTab({url:"/pages/home/index"})}),1e3)})),e.onBeforeUnmount((()=>{n&&clearTimeout(n)})),(t,n)=>({a:e.f(o,((t,o,n)=>({a:e.t(t),b:t})))})}},o=e._export_sfc(t,[["__scopeId","data-v-95042279"]]);wx.createPage(o);
